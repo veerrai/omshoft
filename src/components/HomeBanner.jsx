@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Button, Form } from "react-bootstrap";
+import { Container, Row, Col} from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import bannerImg from "../images/banner.webp"; // 👈 single collage image
 
