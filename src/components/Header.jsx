@@ -24,7 +24,7 @@ const Header = () => {
           <Navbar.Brand href="/">
             <img
               src="	https://pgnow.co.in/images/logo.webp" 
-              height="90"
+              height="90  "
             />
           </Navbar.Brand>
 
